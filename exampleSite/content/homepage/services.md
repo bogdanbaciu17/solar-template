@@ -1,29 +1,24 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
-weight: 2
+title: "Our Services"
+header_menu_title: "Our Services"
+navigation_menu_title: "Our Services"
+weight: 3
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+Residendital & Commercial
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+- Solar PV Panels
+- Solar PV Panels with Battery Storage
+- Solar Power Diverters - for hot water
+- EV Car Chargers - up €600 SEAI grant
+- Solar PV Monitoring
 
----
+Solar systems that we can install
 
-### Nutrition Coaching
+- {{<extlink text="Solis with Energy Storage" href="https://www.solisinverters.com/uk/Residential-Solutions.html#page1/" icon="fa fa-external-link">}}
+- {{<extlink text="Huawei Residential Smart PV & ESS Solution" href="https://solar.huawei.com/en/" icon="fa fa-external-link">}}
+- {{<extlink text="Growatt Solar PV Systems" href="https://us.growatt.com/solutions/off-grid-storage-system" icon="fa fa-external-link">}}
+- {{<extlink text="Victron ESS Systems" href="https://www.victronenergy.com/" icon="fa fa-external-link">}}
+- {{<extlink text="My Energi Systems" href="https://www.myenergi.com/ie" icon="fa fa-external-link">}}
 
-This is not an easy task. 
-You will likely have to pay money for this.
-
-### Chef Consulting
-
-I can raise your table culture!
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-Want to learn more about my services? See [dedicated page](services) with more details.

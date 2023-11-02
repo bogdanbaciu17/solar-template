@@ -1,11 +1,20 @@
 ---
 title: "Contact"
-weight: 4
+weight: 6
 header_menu: true
 ---
+Bogdan Daniel Baciu
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+---
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+Edvisory Energy Ltd & Tw McKSolar.ie
 
-Let us get in touch!
+Unit 9, Steadfast Ind Estate, Dundalk Road
+
+Carrickmacross, Co. Monaghan
+
+---
+
+{{<icon class="fa fa-envelope">}}&nbsp;[info@solar365.info](mailto:info@solar365.info)
+
+{{<icon class="fa fa-phone">}}&nbsp;[+353 86 1709193](tel:+353861709193)

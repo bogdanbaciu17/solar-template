@@ -3,12 +3,6 @@ title: "Welcome"
 weight: 1
 ---
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page. 
-The landing screen is meant to be visually striking.
+&nbsp;[Solar365.info](https://solar365.info) is a website maintained by EDvisory Energy Ltd. We provide solar PV system installations together with our partners: &nbsp;[twmcksolar.ie](https://twmcksolar.ie) - Tw McKitterick Electrical Contractors Ltd and TK Heating Concepts Ltd. We are based in Carrickmacross, Co. Monaghan, Ireland.
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user. 
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
-
-> The belly rules the mind. --- spanish proverb
-
-By the way this welcome section won't show in the cover menu.
+Thank you for visiting our website.

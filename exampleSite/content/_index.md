@@ -6,11 +6,11 @@ header_image: "images/solar365-cover-image.jpg"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/logo-solar365.png"
+header_logo: "images/logo-single-solar365.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Solar PV Panels Instalations "
-header_subheadline: "<b>SEAI Grants - Residential & Commercials</b>"
+header_headline: "Solar365"
+header_subheadline: "<b>Solar Pv<b> Ireland - <b>SEAI<b> Grants"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

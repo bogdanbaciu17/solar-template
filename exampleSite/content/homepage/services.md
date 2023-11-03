@@ -22,4 +22,4 @@ Solar systems that we can install
 - {{<extlink text="Victron ESS Systems" href="https://www.victronenergy.com/" icon="fa fa-external-link">}}
 - {{<extlink text="My Energi Systems" href="https://www.myenergi.com/ie" icon="fa fa-external-link">}}
 
-&nbsp;[More Info](../exampleSite/content/services.md)
+&nbsp;[More Info](services)

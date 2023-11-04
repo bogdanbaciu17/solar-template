@@ -10,7 +10,7 @@ Residendital & Commercial
 - Solar PV Monitoring
 
 
-![solis energy storage system ](../images/solis-energy-storage-system.jpg)
+![solis energy storage system ](../images/solis.png)
 
 Solar systems that we can install
 
@@ -21,4 +21,4 @@ Solar systems that we can install
 - {{<extlink text="My Energi Systems" href="https://www.myenergi.com/ie" icon="fa fa-external-link">}}
 
 
-![huawei solar systems ](../images/huawei-house.jpg)
+![huawei solar systems ](../images/huawei.png)

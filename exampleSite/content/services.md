@@ -20,4 +20,4 @@ Residendital & Commercial
 ---
 ![growatt systems ](../images/growatt.png)
 ---
-![MyEnergy systems ](../images/myenergyt.png)
+![MyEnergy systems ](../images/myenergy.png)

@@ -15,11 +15,6 @@ title = "Solar Pv Ireland - Solar365"
 # enableGitInfo = true
 
 # seo
-
-[sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
   
 # Theme-specific variables `.Site.Params.myParamName`
 [params]

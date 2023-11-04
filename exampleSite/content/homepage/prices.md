@@ -5,7 +5,7 @@ header_menu: true
 ---
 Prices of Solar PV Panels & comparison
 
-|No. of Solar Panels  | 8 Panels  | 10 Panels   | 12 Panels    | 
+|No. of Solar Panels  |  8 Panels | 10 Panels   | 12 Panels    | 
 |---------------------|-----------|-------------|--------------|
 | Kilowatt Peak       | 3.2 kWp   | 4.1 kWp     | 4.9 kWp      |
 | Annual Generation   | 2,700 kWh | 3,500 kWh   | 4,200 kWh    |

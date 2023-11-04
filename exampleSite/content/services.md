@@ -1,8 +1,6 @@
 ---
-title: "Services"
+title: "Our Solar Pv Services"
 ---
-## Our Solar Pv Services
-
 Residendital & Commercial
 
 - Solar PV Panels
@@ -14,7 +12,7 @@ Residendital & Commercial
 
 ![solis energy storage system ](../images/solis-energy-storage-system.jpg)
 
-## Solar systems that we can install
+Solar systems that we can install
 
 - {{<extlink text="Solis with Energy Storage" href="https://www.solisinverters.com/uk/Residential-Solutions.html#page1/" icon="fa fa-external-link">}}
 - {{<extlink text="Huawei Residential Smart PV & ESS Solution" href="https://solar.huawei.com/en/" icon="fa fa-external-link">}}

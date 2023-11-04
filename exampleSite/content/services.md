@@ -8,17 +8,16 @@ Residendital & Commercial
 - Solar Power Diverters - for hot water
 - EV Car Chargers - up €600 SEAI grant
 - Solar PV Monitoring
-
-
-![solis energy storage system ](../images/solis.png)
-
-Solar systems that we can install
-
 - {{<extlink text="Solis with Energy Storage" href="https://www.solisinverters.com/uk/Residential-Solutions.html#page1/" icon="fa fa-external-link">}}
 - {{<extlink text="Huawei Residential Smart PV & ESS Solution" href="https://solar.huawei.com/en/" icon="fa fa-external-link">}}
 - {{<extlink text="Growatt Solar PV Systems" href="https://us.growatt.com/solutions/off-grid-storage-system" icon="fa fa-external-link">}}
 - {{<extlink text="Victron ESS Systems" href="https://www.victronenergy.com/" icon="fa fa-external-link">}}
 - {{<extlink text="My Energi Systems" href="https://www.myenergi.com/ie" icon="fa fa-external-link">}}
-
-
-![huawei solar systems ](../images/huawei.png)
+---
+![solis energy storage system ](../images/solis1.png)
+---
+![huawei solar systems ](../images/huawei1.png)
+---
+![growatt systems ](../images/growatt.png)
+---
+![MyEnergy systems ](../images/myenergyt.png)

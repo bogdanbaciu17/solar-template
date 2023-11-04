@@ -14,10 +14,16 @@ Residendital & Commercial
 - {{<extlink text="Victron ESS Systems" href="https://www.victronenergy.com/" icon="fa fa-external-link">}}
 - {{<extlink text="My Energi Systems" href="https://www.myenergi.com/ie" icon="fa fa-external-link">}}
 ---
-![solis energy storage system ](../images/solis1.png)
+![solis energy storage system ](../images/solis1.png) | Solis Inverter Range & Solis Hybrid Off-Grid
+
 ---
-![huawei solar systems ](../images/huawei1.png)
+
+![huawei solar systems ](../images/huawei1.png) | Huawei FusionSolar Smart PV Solution
+
 ---
-![growatt systems ](../images/growatt.png)
+
+![growatt systems ](../images/growatt.png) | Residential PV System, Residential Storage System
+
 ---
-![MyEnergy systems ](../images/myenergy.png)
+
+![MyEnergy systems ](../images/myenergy.png) | Charge with grid, solar, Solar hot water diverter

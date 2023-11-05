@@ -16,7 +16,12 @@ title = "Solar Panels Installations"
 # enableGitInfo = true
 
 # seo
-  
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
 

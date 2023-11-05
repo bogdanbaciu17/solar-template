@@ -16,16 +16,16 @@ Residendital & Commercial
 
 ---
 
-![solis energy storage system ](../images/solis1.png)  Solis Inverter Range & Solis Hybrid Off-Grid
+![solis energy storage system](../images/solis1.png "Solis Inverter Range & Solis Hybrid Off-Grid")  Solis Inverter Range & Solis Hybrid Off-Grid
 
 ---
 
-![huawei solar systems ](../images/huawei1.png)  Huawei FusionSolar Smart PV Solution
+![huawei solar systems](../images/huawei1.png "Huawei FusionSolar Smart PV Solution")  Huawei FusionSolar Smart PV Solution
 
 ---
 
-![growatt systems ](../images/growatt.png)  Residential PV System, Residential Storage System
+![growatt systems](../images/growatt.png "Residential PV System, Residential Storage System")  Residential PV System, Residential Storage System
 
 ---
 
-![MyEnergy systems ](../images/myenergy.png)  Charge with grid, solar, Solar hot water diverter
+![MyEnergy systems](../images/myenergy.png "Charge with grid, solar, Solar hot water diverter")  Charge with grid, solar, Solar hot water diverter

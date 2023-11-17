@@ -6,7 +6,7 @@ header_image: "images/solar365-cover-image.jpg"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/logo-single-solar365-1.png"
+header_logo: "images/logo-single-solar365-2.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 # header_headline: "Solar365"

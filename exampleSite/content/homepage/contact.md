@@ -10,13 +10,10 @@ Bogdan Daniel Baciu
 Edvisory Energy Ltd.
 
 Unit 9, Steadfast Ind Estate, Dundalk Road
-
 Carrickmacross
-
 Co. Monaghan
 
-email : info@solar365.info
-
+email : info(at)solar365.info
 phone : +353 86 1709193
 
 ---

@@ -14,6 +14,7 @@ Carrickmacross
 Co. Monaghan
 
 email : info(at)solar365.info
-phone : +353 86 1709193
+
+phone : +353-86-1709193
 
 ---

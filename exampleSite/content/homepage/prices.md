@@ -13,7 +13,7 @@ Prices of Solar PV Panels & comparison
 | Exported Electricity| €200       | €330        | €440         |
 | Annual Savings      | €920       |**€8,383**	 |**€8,874**    |
 | SEAI Grant	      |-€2,100	   |**€6,043**	 |**€6,474**    |
-| Payback Estimate	  |**5 Years** |**5 Years**  |**5 Years**   |
+| Payback Estimate	  |**5Years**  |**5Years**   |**5Years**    |
 ---
 The above is based on estimated installation costs, self-consumption and annual solar generation from south facing roof in Dublin City. Savings base on average electricity rate of 41c/kWh and microgeneration rate of 21c/kWh that is exported. All prices calculated at 0% since 1st May 2023.
 

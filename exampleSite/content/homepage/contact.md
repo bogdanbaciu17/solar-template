@@ -8,8 +8,7 @@ header_menu: true
 ##### Edvisory Energy Ltd.
 
 Unit 9, Steadfast Ind Estate, Dundalk Road
-Carrickmacross
-Co. Monaghan
+Carrickmacross, Co. Monaghan
 
 Email : info@solar365.info
 

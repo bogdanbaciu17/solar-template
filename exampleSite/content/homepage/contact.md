@@ -10,8 +10,10 @@ header_menu: true
 Unit 9, Steadfast Ind Estate, Dundalk Road
 Carrickmacross, Co. Monaghan
 
-Email : info@solar365.info
+Email    : info@solar365.info
 
-Phone : +353-86-1709193
+Phone    : +353-42-9690514
+
+WhatsApp : +353-86-1709193
 
 ---

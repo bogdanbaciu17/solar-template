@@ -8,11 +8,11 @@ header_menu: true
 
 Residendital & Commercial
 
-- Solar PV Panels
-- Solar PV Panels with Battery Storage
+- Solar Panels
+- Solar Panels with Battery Storage
 - Solar Power Diverters - for hot water
 - EV Car Chargers - up €600 SEAI grant
-- Solar PV Monitoring
+- Solar Panels Monitoring
 
 Solar systems that we can install
 

@@ -1,5 +1,5 @@
 ---
-title: "Solar panels instalations"
+title: "solar panels installations"
 weight: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Prices"
+title: "Prices of solar panels"
 weight: 5
 header_menu: true
 ---

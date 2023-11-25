@@ -7,6 +7,7 @@ weight: 2
 # detailed_page_path: /legal/
 # detailed_page_homepage_content: true
 ---
+---
 #### Benefits of Solar Panels
 
 - Save over 50% on your homes electricity*

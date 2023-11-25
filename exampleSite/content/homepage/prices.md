@@ -10,9 +10,9 @@ Prices of Solar PV Panels & comparison
 |---------------------|-------------|-------------|--------------|
 | Kilowatt Peak       | 3.2 kWp     | 4.1 kWp     | 4.9 kWp      |
 | Annual Generation   | 2,700 kWh   | 3,500 kWh   | 4,200 kWh    |
-| Self Consumption    | €720        | €800        | €860         |
-| Exported Electricity| €200        | €330        | €440         |
-| Annual Savings      | €920        | €1,130      | €1,300       |
+| Self Consumption    |  €720       |  €800       |  €860        |
+| Exported Electricity|  €200       |  €330       |  €440        |
+| Annual Savings      |  €920       |  €1,130     |  €1,300      |
 | Average Price       |**€7,066**   |**€8,383**	  |**€8,874**    |
 | SEAI Grant	      |-€2,100	    |-€2,400	  | -€2,400      |
 | Net Cost	          |**€4,966**   |**€6,043**	  |**€6,474**    |

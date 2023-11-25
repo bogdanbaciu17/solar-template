@@ -43,12 +43,19 @@ h3,h4,h5,h6 {
   margin-bottom: 0%;
 }
 
-h1 {
+/** h1 {
   font-size: 5rem;
   line-height: 1.2em;
   letter-spacing: -2px;
   text-indent: -3px;
-}
+} */
+
+h1 {
+    font-size: 4rem;
+    line-height: 1.2em;
+    letter-spacing: -1px;
+    text-indent: -2px;
+  }
 
 h2 {
   font-size: 4rem;

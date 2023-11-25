@@ -5,8 +5,7 @@ navigation_menu_title: "Our Services"
 weight: 3
 header_menu: true
 ---
-
-
+---
 #### Residendital & Commercial
 
 - Solar Panels
@@ -15,6 +14,7 @@ header_menu: true
 - EV Car Chargers - up €600 SEAI grant
 - Solar Panels Monitoring
 
+---
 #### Solar systems that we can install
 
 - {{<extlink text="Solis with Energy Storage" href="https://www.solisinverters.com/uk/Residential-Solutions.html#page1/" icon="fa fa-external-link">}}

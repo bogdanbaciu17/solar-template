@@ -3,6 +3,7 @@ title: "Prices of solar panels"
 weight: 5
 header_menu: true
 ---
+---
 Prices of Solar PV Panels & comparison
 
 |No. of Solar Panels  | 08 Panels   | 10 Panels   | 12 Panels    | 

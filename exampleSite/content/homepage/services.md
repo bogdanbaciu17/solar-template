@@ -6,7 +6,7 @@ weight: 3
 header_menu: true
 ---
 
-Residendital & Commercial
+#### Residendital & Commercial
 
 - Solar Panels
 - Solar Panels with Battery Storage
@@ -14,7 +14,7 @@ Residendital & Commercial
 - EV Car Chargers - up €600 SEAI grant
 - Solar Panels Monitoring
 
-Solar systems that we can install
+#### Solar systems that we can install
 
 - {{<extlink text="Solis with Energy Storage" href="https://www.solisinverters.com/uk/Residential-Solutions.html#page1/" icon="fa fa-external-link">}}
 - {{<extlink text="Huawei Residential Smart PV & ESS Solution" href="https://solar.huawei.com/en/" icon="fa fa-external-link">}}

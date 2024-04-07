@@ -13,12 +13,12 @@ Support is available to all owners of dwellings built and occupied before 2021 a
 
 Solar Pv size (per kWp installed)
 
-- 1st kWp  -  €900
-- 2nd kWp  - €1800
-- 3rd kWp  - €2100
-- 4th kWp  - €2400
+- 1st kWp  -  €800
+- 2nd kWp  -  €800
+- 3rd kWp  -  €250
+- 4th kWp  -  €250
 
-Maximum grant for residetial is €2400.
+Maximum grant for residetial is €2100.
 
 ---
 

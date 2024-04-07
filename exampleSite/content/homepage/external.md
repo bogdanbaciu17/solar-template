@@ -1,6 +1,6 @@
 ---
-title: "TWMCKsolar.ie"
+title: "TikTok"
 weight: 99
 header_menu: true
-external: https://twmcksolar.ie
+external: https://www.tiktok.com/@solar365info
 ---

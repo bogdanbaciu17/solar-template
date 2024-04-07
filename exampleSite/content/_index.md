@@ -10,7 +10,7 @@ header_logo: "images/logo-single-solar365-2.webp"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 # header_headline: "Solar365"
-header_subheadline: "<b>Solar Pv</b> Ireland - <b>SEAI</b> Grants"
+header_subheadline: "<b>Solar Pv</b> Ireland"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

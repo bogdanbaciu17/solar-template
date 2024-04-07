@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Solar Panels Installations"
+title = "Solar365.info"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true

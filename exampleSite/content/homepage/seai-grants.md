@@ -11,12 +11,14 @@ Support is available to all owners of dwellings built and occupied before 2021 a
 
 {{<extlink text="SEAI - Solar Electricity Grant" href="https://www.seai.ie/grants/home-energy-grants/solar-electricity-grant/" icon="fa fa-external-link">}}
 
+{{<extlink text="Solar Electricity Calculator" href="https://www.seai.ie/tools/solar-electricity-calculator/" icon="fa fa-external-link">}}
+
 Solar Pv size (per kWp installed)
 
-- 1st kWp  -  €800
-- 2nd kWp  -  €800
-- 3rd kWp  -  €250
-- 4th kWp  -  €250
+- 1st kWp  -  €800 : 1kWp installed  €800 ( about 3 panels installed)
+- 2nd kWp  -  €800 : 2kWp installed €1600 ( about 5 panels installed)
+- 3rd kWp  -  €250 : 3kWp installed €1850 ( about 8 panels installed)
+- 4th kWp  -  €250 : 4kWp installed €2100 ( about 10 panels installed)
 
 Maximum grant for residetial is €2100.
 

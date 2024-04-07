@@ -11,6 +11,7 @@ Support is available to all owners of dwellings built and occupied before 2021 a
 
 {{<extlink text="SEAI - Solar Electricity Grant" href="https://www.seai.ie/grants/home-energy-grants/solar-electricity-grant/" icon="fa fa-external-link">}}
 
+
 {{<extlink text="Solar Electricity Calculator" href="https://www.seai.ie/tools/solar-electricity-calculator/" icon="fa fa-external-link">}}
 
 Solar Pv size (per kWp installed)
